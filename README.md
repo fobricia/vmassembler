@@ -1,6 +1,6 @@
 <div align="center">
     <div>
-        <img src="https://githacks.org/uploads/-/system/project/avatar/374/icon-5.png"/>
+        <img src="https://githacks.org/uploads/-/system/project/avatar/370/icon.png"/>
     </div>
 </div>
 
