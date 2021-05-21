@@ -1,3 +1,9 @@
+<div align="center">
+    <div>
+        <img src="https://githacks.org/uploads/-/system/project/avatar/374/icon-5.png"/>
+    </div>
+</div>
+
 # vmassembler - VMProtect 2 Virtual Instruction Assembler
 
 vmassembler is a small C++ project which uses [flex](https://en.wikipedia.org/wiki/Flex_(lexical_analyser_generator)) and [bison](https://www.gnu.org/software/bison/manual/) to parse `.vasm` files and assemble virtual instructions. The project inherits [vmprofiler](https://githacks.org/vmp2/vmprofiler) which is used to identify vm handler's, provide them with a name, immidate value size, and other meta data to aid in assembling virtual instructions.
